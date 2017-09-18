@@ -1,2 +1,4 @@
 # hello-world
-This is the tutorial.
+this is the tutorial
+
+this is a milestone in the tutorial
